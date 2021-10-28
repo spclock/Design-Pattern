@@ -5,6 +5,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>listener</module>
+        <module>factory</module>
+        <module>com.spc.adapter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
