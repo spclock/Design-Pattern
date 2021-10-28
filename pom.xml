@@ -6,7 +6,8 @@
     <modules>
         <module>listener</module>
         <module>factory</module>
-        <module>com.spc.adapter</module>
+        <module>adapter</module>
+        <module>proptery</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
