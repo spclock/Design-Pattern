@@ -9,6 +9,12 @@
         <module>adapter</module>
         <module>proptery</module>
         <module>bridging</module>
+        <module>builder</module>
+        <module>composite</module>
+        <module>decorator</module>
+        <module>facade</module>
+        <module>flyweight</module>
+        <module>proxy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
