@@ -15,6 +15,7 @@
         <module>facade</module>
         <module>flyweight</module>
         <module>proxy</module>
+        <module>template</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

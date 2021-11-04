@@ -68,10 +68,10 @@
 
 **创建型模式:**
 
-- [ ] 工厂方法：Factory Method
-- [ ] 抽象工厂：Abstract Factory
-- [ ] 建造者：Builder
-- [ ] 原型：Prototype
+- [x] 工厂方法：Factory Method
+- [x] 抽象工厂：Abstract Factory
+- [x] 建造者：Builder
+- [x] 原型：Prototype
 - [ ] 单例：Singleton
 
 
@@ -80,13 +80,13 @@
 
 **结构型模式:**
 
-- [ ] 中介
-- [ ] 备忘录
-- [ ] 观察者
-- [ ] 状态
-- [ ] 策略
-- [ ] 模板方法
-- [ ] 访问者
+- [x] 装饰器模式
+- [x] 组合模式
+- [x] 适配器模式
+- [x] 代理模式
+- [x] 享元模式
+- [x] 桥接模式
+- [x] 外观模式
 
 
 
