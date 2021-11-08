@@ -16,6 +16,7 @@
         <module>flyweight</module>
         <module>proxy</module>
         <module>template</module>
+        <module>command</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
