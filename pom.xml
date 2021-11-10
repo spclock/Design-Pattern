@@ -17,6 +17,7 @@
         <module>proxy</module>
         <module>template</module>
         <module>command</module>
+        <module>visitor</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
