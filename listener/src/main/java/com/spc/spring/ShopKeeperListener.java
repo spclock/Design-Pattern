@@ -1,7 +1,7 @@
 package com.spc.spring;
 
-import com.spc.java.IEvent;
-import com.spc.java.IListener;
+import com.spc.iterator.java.IEvent;
+import com.spc.iterator.java.IListener;
 import org.springframework.stereotype.Component;
 
 

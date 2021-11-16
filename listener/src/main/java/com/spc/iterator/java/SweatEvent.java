@@ -1,4 +1,4 @@
-package com.spc.java;
+package com.spc.iterator.java;
 
 /**
  * 流汗事件

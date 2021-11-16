@@ -18,6 +18,7 @@
         <module>template</module>
         <module>command</module>
         <module>visitor</module>
+        <module>iterator</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,6 +1,6 @@
 package com.spc.spring;
 
-import com.spc.java.IEvent;
+import com.spc.iterator.java.IEvent;
 
 public class ShoppingEvent implements IEvent<SeeGoods> {
 

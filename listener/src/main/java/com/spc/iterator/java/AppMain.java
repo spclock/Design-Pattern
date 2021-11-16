@@ -1,4 +1,4 @@
-package com.spc.java;
+package com.spc.iterator.java;
 
 public class AppMain {
     public static void main(String[] args) {
