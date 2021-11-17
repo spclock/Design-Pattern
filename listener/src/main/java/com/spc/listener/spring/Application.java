@@ -1,4 +1,4 @@
-package com.spc.spring;
+package com.spc.listener.spring;
 
 
 import org.springframework.boot.SpringApplication;

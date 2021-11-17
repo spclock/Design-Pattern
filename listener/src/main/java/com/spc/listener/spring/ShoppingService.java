@@ -1,6 +1,6 @@
-package com.spc.spring;
+package com.spc.listener.spring;
 
-import com.spc.iterator.java.IListener;
+import com.spc.listener.java.IListener;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

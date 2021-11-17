@@ -1,4 +1,4 @@
-package com.spc.spring;
+package com.spc.listener.spring;
 
 import java.util.Date;
 

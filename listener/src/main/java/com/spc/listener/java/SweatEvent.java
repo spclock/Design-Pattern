@@ -1,17 +1,17 @@
-package com.spc.iterator.java;
-
+package com.spc.listener.java;
 
 /**
- * 心跳加快事件
+ * 流汗事件
  */
-public class HeartbeatSpeedUpEvent implements IEvent<EventSource> {
+public class SweatEvent implements IEvent<EventSource> {
 
 
     private EventSource eventSource;
 
-    public HeartbeatSpeedUpEvent(EventSource eventSource) {
+    public SweatEvent(EventSource eventSource) {
         this.eventSource = eventSource;
     }
+
 
     @Override
     public EventSource getSource() {
