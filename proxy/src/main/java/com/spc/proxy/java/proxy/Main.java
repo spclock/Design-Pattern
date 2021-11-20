@@ -42,6 +42,12 @@ import java.lang.reflect.Proxy;
  * 代理是用户只能通过代理对象来间接对原本对象操作
  * <p>
  * 静态代理：增加一个需要代理对象就多个代理类
+ *
+ *
+ * 为什么jdk动态代理要接口：
+ * 1.Proxy.newProxyInstance(ClassLoader loader,Class<?>[] interfaces,InvocationHandler h)
+ *          中的interfaces这参数要求的就是接口类
+ * 2.动态生成的类是继承Proxy这个类的，如果是实体类的话就代理类不能再继承实体类来复用。
  */
 public class Main {
 
