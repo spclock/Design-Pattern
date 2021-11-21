@@ -21,6 +21,7 @@
         <module>iterator</module>
         <module>observer</module>
         <module>mediator</module>
+        <module>memento</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
