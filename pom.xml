@@ -25,6 +25,7 @@
         <module>interpreter</module>
         <module>strategy</module>
         <module>state</module>
+        <module>chainOfResponsibility</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
