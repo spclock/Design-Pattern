@@ -23,6 +23,7 @@
         <module>mediator</module>
         <module>memento</module>
         <module>interpreter</module>
+        <module>strategy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
