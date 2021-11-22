@@ -24,6 +24,7 @@
         <module>memento</module>
         <module>interpreter</module>
         <module>strategy</module>
+        <module>state</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
